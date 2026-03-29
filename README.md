@@ -9,5 +9,7 @@ Plugin 1. This is a killtraker for tf2, what this dose is track kills the more k
 Plugin 2. (idea by agA 🍎) Greenme - Makes the player Green cosmetics and all.. a choice to enable outline if needed
 (COMMANDS !greenme - to open menu)
 ----------------------------------------------------------------------------------------------------------------------
+Plugin 3. Bounty - This is a bountyhunt for Tf2.. this plugins picks a random player and you get the choice of huning them or pass it off to someone else.. you can also choose your own bounty with the command (!bounty) 
+----------------------------------------------------------------------------------------------------------------------
 ///MORE COMING SOON///
 ----------------------------------------------------------------------------------------------------------------------
